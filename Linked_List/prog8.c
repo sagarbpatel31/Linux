@@ -1,3 +1,6 @@
+// Inserting the element after the certain element in the Linked List
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 
