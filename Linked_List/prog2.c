@@ -1,3 +1,6 @@
+// Creating a Linked List using only one Node named root
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 typedef struct Node{
