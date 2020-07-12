@@ -1,3 +1,7 @@
+// Creating a first Linked List named Node
+// Made by Sagar B Patel
+
+
 #include <stdio.h>
 
 typedef struct Node{
