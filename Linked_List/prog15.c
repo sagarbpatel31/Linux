@@ -1,3 +1,6 @@
+// Count the number of the elements in the Linked List
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 
