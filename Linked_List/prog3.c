@@ -1,3 +1,6 @@
+// Creating a Linked List which has 3 elements using malloc and freeing the memory
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 
