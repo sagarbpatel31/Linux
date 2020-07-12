@@ -1,3 +1,6 @@
+// Removing the certain element from the Linked List
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 
