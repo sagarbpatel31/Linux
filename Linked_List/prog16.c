@@ -1,3 +1,6 @@
+// Creating a doubly linked list 
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 
