@@ -1,3 +1,6 @@
+// Adding the element in ordered Linked List considering all the cases
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 
