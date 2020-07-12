@@ -1,3 +1,6 @@
+// Inserting the element at the end of the Linked List considering all the cases
+// Made by Sagar B Patel
+
 #include <stdio.h>
 #include <stdlib.h>
 
