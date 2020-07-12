@@ -1,3 +1,6 @@
+// Complete resolution of Adding the element in the Linked List
+// Made by Sagar B Patell
+
 #include <stdio.h>
 #include <stdlib.h>
 
