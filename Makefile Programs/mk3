@@ -1,0 +1,10 @@
+CC = gcc 
+CFLAGS = -Wall  
+
+SRC=$(wildcard *.c *.h) 
+
+sampleMake3: ${SRC} 
+	$(CC) $(CFLAGS) $^ -o $@ 
+clean:
+	rm -rf *.o  sampleMake3
+

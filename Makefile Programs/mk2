@@ -1,0 +1,13 @@
+CC = gcc
+OUTPUT= samplemake
+CFLAGS = -Wall -Werror
+OBJFILES = f1.o f2.o main.o
+
+all: ${OBJFILES}
+	$(CC) $(CFLAGS) $(OBJFILES) -o $(OUTPUT)
+
+%.o: %.c fun.h
+	$(CC) $(CFLAGS) -c $< 
+
+clean: 
+	rm -rf *.o $(OUTPUT)

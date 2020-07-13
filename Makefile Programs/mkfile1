@@ -1,0 +1,10 @@
+all: f1.o f2.o main.o
+	gcc f1.o f2.o main.o -o output
+f1.o: f1.c fun.h
+	gcc -c f1.c
+f2.o: f2.c fun.h
+	gcc -c f2.c
+main.o: main.c fun.h
+	gcc -c main.c
+clean:
+	rm -rf *.o output
